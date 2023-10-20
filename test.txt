@@ -1,1 +1,2 @@
 ShaoXuan
+public static void main()
